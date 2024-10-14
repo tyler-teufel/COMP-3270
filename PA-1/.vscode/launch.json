@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "args": [
+                "r",
+                5,
+                "m"
+             ],
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ProgrammingAssignment1",
+            "request": "launch",
+            "mainClass": "ProgrammingAssignment1",
+            "projectName": "PA-1_7ec9d812"
+        }
+    ]
+}
